@@ -1,0 +1,5 @@
+print(27) 
+print("Hello")
+print("Hello",27)
+print("\n How are you?")
+print("Hello",end="!")
